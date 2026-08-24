@@ -1,0 +1,66 @@
+[submodule "dsa1-checkpoint-card-deck"]
+	path = dsa1-checkpoint-card-deck
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-card-deck.git
+[submodule "dsa1-checkpoint-card-deck-solution"]
+	path = dsa1-checkpoint-card-deck-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-card-deck-solution.git
+[submodule "dsa1-checkpoint-rational-number"]
+	path = dsa1-checkpoint-rational-number
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-rational-number.git
+[submodule "dsa1-checkpoint-rational-number-solution"]
+	path = dsa1-checkpoint-rational-number-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-rational-number-solution.git
+[submodule "dsa1-checkpoint-room-simulator"]
+	path = dsa1-checkpoint-room-simulator
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-room-simulator.git
+[submodule "dsa1-checkpoint-room-simulator-solution"]
+	path = dsa1-checkpoint-room-simulator-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-room-simulator-solution.git
+[submodule "dsa1-checkpoint-wildfire"]
+	path = dsa1-checkpoint-wildfire
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-wildfire.git
+[submodule "dsa1-checkpoint-wildfire-solution"]
+	path = dsa1-checkpoint-wildfire-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-checkpoint-wildfire-solution.git
+[submodule "dsa1-lab-hello"]
+	path = dsa1-lab-hello
+	url = https://github.com/uwf-dsa-teaching/dsa1-lab-hello.git
+[submodule "dsa1-lab-hello-solution"]
+	path = dsa1-lab-hello-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-lab-hello-solution.git
+[submodule "dsa1-proj-big-int"]
+	path = dsa1-proj-big-int
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-big-int.git
+[submodule "dsa1-proj-big-int-solution"]
+	path = dsa1-proj-big-int-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-big-int-solution.git
+[submodule "dsa1-proj-filesystem"]
+	path = dsa1-proj-filesystem
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-filesystem.git
+[submodule "dsa1-proj-filesystem-solution"]
+	path = dsa1-proj-filesystem-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-filesystem-solution.git
+[submodule "dsa1-proj-gis"]
+	path = dsa1-proj-gis
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-gis.git
+[submodule "dsa1-proj-gis-solution"]
+	path = dsa1-proj-gis-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-gis-solution.git
+[submodule "dsa1-proj-minesweeper"]
+	path = dsa1-proj-minesweeper
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-minesweeper.git
+[submodule "dsa1-proj-minesweeper-solution"]
+	path = dsa1-proj-minesweeper-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-minesweeper-solution.git
+[submodule "dsa1-proj-morbidity-data"]
+	path = dsa1-proj-morbidity-data
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-morbidity-data.git
+[submodule "dsa1-proj-morbidity-data-solution"]
+	path = dsa1-proj-morbidity-data-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-morbidity-data-solution.git
+[submodule "dsa1-proj-password-manager"]
+	path = dsa1-proj-password-manager
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-password-manager.git
+[submodule "dsa1-proj-password-manager-solution"]
+	path = dsa1-proj-password-manager-solution
+	url = https://github.com/uwf-dsa-teaching/dsa1-proj-password-manager-solution.git
